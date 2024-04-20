@@ -1,2 +1,5 @@
 Github usage for sample
 I have added new line in main branch
+I have added some new lines in local 
+first line
+second line
